@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="768" width="1024" x="413" y="211">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<coolbarLayout>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.cgiar.cip.ilcym.ui.actionSetProgress" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.cgiar.cip.ilcym.connectiontor.actionSet2" itemType="typeToolBarContribution" x="42" y="22"/>
+<coolItem id="org.cgiar.cip.ilcym.modelbuilder.actionSetComparison" itemType="typeToolBarContribution" x="91" y="23"/>
+<coolItem id="org.cgiar.cip.ilcym.modelbuilder.actionSetMortality" itemType="typeToolBarContribution" x="38" y="23"/>
+<coolItem id="org.cgiar.cip.ilcym.modelbuilder.actionSetOviposition" itemType="typeToolBarContribution" x="84" y="23"/>
+<coolItem id="org.cgiar.cip.ilcym.modelbuilder.actionSetDevelopment" itemType="typeToolBarContribution" x="61" y="23"/>
+<coolItem id="org.cgiar.cip.ilcym.modelbuilder.actionSetSenescence" itemType="typeToolBarContribution" x="38" y="23"/>
+</coolbarLayout>
+<page focus="true" label="&lt;Unknown Label&gt; - Validation &amp;&amp; Simulations">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</editorArea>
+</editors>
+<views>
+<view id="net.refractions.udig.ui.aoiView" partName="AOI"/>
+<view id="net.refractions.udig.catalog.ui.Search" partName="Search"/>
+<view id="net.refractions.udig.project.ui.layerManager" partName="Layers">
+<viewState/>
+</view>
+<view id="net.refractions.udig.project.ui.projectExplorer" partName="Projects">
+<viewState/>
+</view>
+<view id="net.refractions.udig.browser.ui.browserContainerView" partName="Web"/>
+<view id="net.refractions.udig.tool.select.TableView" partName="Table"/>
+<view id="net.refractions.udig.catalog.ui.CatalogView" partName="Catalog">
+<viewState/>
+</view>
+<view id="org.cgiar.cip.ilcym.projects.view1" partName="ILCYM&apos;s Projects Explorer">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.cgiar.cip.ilcym.projects.view1" activePerspective="org.cgiar.cip.ilcym.ui.validationSimulationsPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="net.refractions.udig.internal.ui.MapPerspective" id="net.refractions.udig.ui.mapPerspective" label="Map Perspective"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerQuerySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerModifySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerStyleSet"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.connectiontor.actionSet2"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.ui.actionSetProgress"/>
+<alwaysOnActionSet id="net.refractions.udig.helpMenuItems"/>
+<alwaysOnActionSet id="net.refractions.udig.ui.default"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layer.menu"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.LayerActions"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.map.menu"/>
+<alwaysOnActionSet id="net.refractions.udig.catalog.ui.data.menu"/>
+<alwaysOnActionSet id="net.refractions.udig.legend.mapGraphic.action"/>
+<alwaysOnActionSet id="net.refractions.udig.mapgraphic.commonDecorators"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.renameSet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.OpenProjectSet"/>
+<alwaysOnActionSet id="net.refractions.udig.style.sld.editor.layerAction"/>
+<show_view_action id="net.refractions.udig.browser.ui.browserContainerView"/>
+<show_view_action id="net.refractions.udig.catalog.ui.Search"/>
+<show_view_action id="net.refractions.udig.project.ui.projectExplorer"/>
+<show_view_action id="net.refractions.udig.project.ui.layerManager"/>
+<show_view_action id="net.refractions.udig.style.styleView"/>
+<show_view_action id="net.refractions.udig.tool.select.TableView"/>
+<new_wizard_action id="net.refractions.udig.project.ui.wizard.newMap"/>
+<new_wizard_action id="net.refractions.udig.project.ui.wizards.newProject"/>
+<new_wizard_action id="net.refractions.udig.project.ui.wizard.newLayer"/>
+<perspective_action id="net.refractions.udig.ui.stylePerspective"/>
+<perspective_action id="net.refractions.udig.ui.mapPerspective"/>
+<view id="net.refractions.udig.project.ui.projectExplorer"/>
+<view id="net.refractions.udig.project.ui.layerManager"/>
+<view id="net.refractions.udig.ui.aoiView"/>
+<view id="net.refractions.udig.catalog.ui.CatalogView"/>
+<view id="net.refractions.udig.browser.ui.browserContainerView"/>
+<view id="net.refractions.udig.catalog.ui.Search"/>
+<view id="net.refractions.udig.tool.select.TableView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@7bb2cb">&#x0A;<folder activePageID="net.refractions.udig.project.ui.projectExplorer" appearance="2" expanded="2">&#x0A;<page content="net.refractions.udig.project.ui.projectExplorer" label="Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7bb2cb">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7bb2cb"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@13e4653" ratio="0.6493902" ratioLeft="426" ratioRight="230" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="net.refractions.udig.catalog.ui.CatalogView" appearance="2" expanded="2">&#x0A;<page content="net.refractions.udig.catalog.ui.CatalogView" label="Catalog"/>
+<page content="net.refractions.udig.browser.ui.browserContainerView" label="Web"/>
+<page content="net.refractions.udig.catalog.ui.Search" label="Search"/>
+<page content="net.refractions.udig.tool.select.TableView" label="Table"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="net.refractions.udig.mapPerspective.selection" ratio="0.25" ratioLeft="164" ratioRight="492" relationship="4" relative="org.eclipse.ui.internal.ViewStack@7bb2cb">&#x0A;<folder activePageID="net.refractions.udig.project.ui.layerManager" appearance="2" expanded="2">&#x0A;<page content="net.refractions.udig.project.ui.layerManager" label="Layers"/>
+<page content="net.refractions.udig.ui.aoiView" label="AOI"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor descriptor="org.cgiar.cip.ilcym.ui.modelBuilderPerspective" id="&lt;Model_Builder&gt;" label="&lt;Model Builder&gt;"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerQuerySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerModifySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerStyleSet"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.modelbuilder.actionSetDevelopment"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.modelbuilder.actionSetSenescence"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.modelbuilder.actionSetMortality"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.modelbuilder.actionSetOviposition"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.modelbuilder.actionSetComparison"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.ui.actionSetProgress"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.connectiontor.actionSet2"/>
+<new_wizard_action id="org.cgiar.cip.ilcym.projects.wizard1"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.gisPerspective"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.validationSimulationsPerspective"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.modelBuilderPerspective"/>
+<view id="org.cgiar.cip.ilcym.projects.view1"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16c5f50">
+<folder activePageID="org.cgiar.cip.ilcym.projects.view1" appearance="2" expanded="2">
+<page content="org.cgiar.cip.ilcym.projects.view1" label="ILCYM&apos;s Projects Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@16c5f50">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.22968906" ratioLeft="229" ratioRight="768" relationship="2" relative="org.eclipse.ui.internal.ViewStack@16c5f50"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.cgiar.cip.ilcym.ui.perspective.ValAndSimsPerspectiveFactory" id="org.cgiar.cip.ilcym.ui.validationSimulationsPerspective" label="Validation &amp;&amp; Simulations"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerQuerySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerModifySet"/>
+<alwaysOnActionSet id="net.refractions.udig.project.ui.layerStyleSet"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.ui.actionSetProgress"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.connectiontor.actionSet2"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.simulations.validations.actionSetValidation"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.simulations.stochastic.actionSetStochastic"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.simulations.deterministic.actionSetDeterministic"/>
+<alwaysOnActionSet id="org.cgiar.cip.ilcym.simulations.speciesinteraction.actionSetSpeciesInteractionMenu"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.modelBuilderPerspective"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.gisPerspective"/>
+<perspective_action id="org.cgiar.cip.ilcym.ui.validationSimulationsPerspective"/>
+<view id="org.cgiar.cip.ilcym.projects.view1"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@10c986">
+<folder activePageID="org.cgiar.cip.ilcym.projects.view1" appearance="2" expanded="2">
+<page content="org.cgiar.cip.ilcym.projects.view1" label="ILCYM&apos;s Projects Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@10c986">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.15" ratioLeft="150" ratioRight="850" relationship="2" relative="org.eclipse.ui.internal.ViewStack@10c986"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList/>
+</workbench>

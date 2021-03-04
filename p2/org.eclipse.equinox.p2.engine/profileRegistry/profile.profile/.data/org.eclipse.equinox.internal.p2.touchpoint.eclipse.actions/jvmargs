@@ -1,0 +1,4 @@
+#Tue Dec 18 17:57:20 COT 2012
+-Xms=40m
+-XX\:MaxPermSize\==256m
+-Xmx=756m,386M
